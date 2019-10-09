@@ -1,4 +1,4 @@
-title: تنقيب البيانات
-description: Course description goes here.
+title: Test
+description: This is a test
 programming_language: r
 from: 'r-base-prod:v1.0.2'
